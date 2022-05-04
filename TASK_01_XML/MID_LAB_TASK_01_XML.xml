@@ -1,0 +1,68 @@
+1.
+<MobileCompany>
+<phone id="11">
+    <name> Samsung </name>
+     <UnitPrice> 3500 </UnitPrice>
+     <stock> 50 </stock>
+     <status> 1 </status> 
+</phone>
+  <phone id="20">
+     <name> HTC </name> 
+     <UnitPrice> 65300 </UnitPrice> 
+     <stock> 35 </stock>
+     <status> 0 </status>
+ </phone>
+<phone id="23">
+   <name> Nokia </name> 
+   <UnitPrice> 25100 </UnitPrice>
+   <stock> 100 </stock>
+   <status> 1 </status >
+ </phone>
+</MobileCompany>
+
+
+2. 
+
+<Students>
+<SerialNo id="23">
+    <name> John Carter </name>
+     <AdmissionDate> 25/12/2015 </AdmissionDate>
+</SerialNo>
+  <SerialNo id="29">
+     <name> Bob Marshal</name> 
+     <AdmissionDate> 13/01/1999 </AdmissionDate>
+ </SerialNo>
+<SerialNo id="35">
+   <name> Clark Kent </name> 
+   <AdmissionDate> 17/06/2005 </AdmissionDate>
+ </SerialNo>
+</Students>
+
+3.
+
+<Office>
+<ID id="1">
+    <name> John Doe </name>
+     <Address> H# 38, R#3, Banani, Dhaka </Address>
+     <Department> Sales </Department>
+     <Salary> $20000 </Salary> 
+</ID>
+  <ID id="2">
+     <name> Mark Zuckerberg </name> 
+     <Address> Flat# A/1, H# 20, R#18, Mirpur, Dhaka </Address> 
+     <Department> Accounts </Department>
+     <Salary> $12000 </Salary>
+ </ID>
+<ID id="3">
+   <name> Ala Voski </name> 
+   <Address> H# 38, R#3, Motijheel </Address>
+   <Department> Human Resource </Department>
+   <Salary> $30000 </Salary>
+ </ID>
+</Office>
+
+
+
+
+
+
